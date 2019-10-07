@@ -9,4 +9,5 @@
 }
 * {
 	font-family: 'BPG WEB 002 Caps'!important; 
+	text-transform: unset !important;
 }
